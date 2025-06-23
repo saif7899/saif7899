@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saif7899
-- 👀 I’m interested in game dev & animation
-- 🌱 I’m currently learning c# coding
-- 👤 I prefer doing my code alone 
+- 👀 I’m interested in game dev
+- 🌱 I use unity and godot
+- 👤 solo
 - 📫 How to reach me; I'll probably read comments you just need to @mention 
 
 I just filled out the default 
